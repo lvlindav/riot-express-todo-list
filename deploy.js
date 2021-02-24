@@ -85,7 +85,7 @@ function sshConnect() {
   ssh
     .connect({
       // TODO: ADD YOUR IP ADDRESS BELOW (e.g. '12.34.5.67')
-      host: '54.146.224.245',
+      host: '52.201.246.231',
       username: 'ubuntu',
       privateKey: 'riot-key.pem'
     })
